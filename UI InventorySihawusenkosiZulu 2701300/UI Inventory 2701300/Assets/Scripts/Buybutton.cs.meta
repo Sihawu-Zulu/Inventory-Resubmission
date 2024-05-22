@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+guid: a6bd638b1c2e3a3428ef605778355924
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Item1: {instanceID: 0}
+  - Item2: {instanceID: 0}
+  - Item3: {instanceID: 0}
+  - Item4: {instanceID: 0}
+  - Item5: {instanceID: 0}
+  - Item6: {instanceID: 0}
+  - Item7: {instanceID: 0}
+  - Item8: {instanceID: 0}
+  - Item9: {instanceID: 0}
+  - Item10: {instanceID: 0}
+  - targetPosition: {fileID: 8201762077569890579, guid: 3ccc6c80c2ebca34a827c54dcf676a42, type: 3}
+  - targetPosition2: {fileID: 8486076039030411976, guid: 7438d369757738c4ebd282d323301ce2, type: 3}
+  - targetPosition3: {fileID: 8201762077569890579, guid: 3ccc6c80c2ebca34a827c54dcf676a42, type: 3}
+  - targetPosition4: {fileID: 8201762077569890579, guid: 3ccc6c80c2ebca34a827c54dcf676a42, type: 3}
+  - targetPosition5: {instanceID: 0}
+  - targetPosition6: {instanceID: 0}
+  - targetPosition7: {instanceID: 0}
+  - targetPosition8: {instanceID: 0}
+  - targetPosition9: {instanceID: 0}
+  - targetPosition10: {instanceID: 0}
+  - newPosition: {instanceID: 0}
+  - newPosition2: {instanceID: 0}
+  - newPosition3: {instanceID: 0}
+  - newPosition4: {instanceID: 0}
+  - newPosition5: {instanceID: 0}
+  - newPosition6: {instanceID: 0}
+  - newPosition7: {instanceID: 0}
+  - newPosition8: {instanceID: 0}
+  - newPosition9: {instanceID: 0}
+  - newPosition10: {instanceID: 0}
+  - moneyText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
